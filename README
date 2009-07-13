@@ -1,21 +1,18 @@
 WHAT
-====
+------
 I did some snippets in order to make my life easier and I believe that it can help you too. I extended the Javascript snippets, put another Javascripts functions and I also put a lot of jQuery functions.
 
-HOW
-===
-You can learn more about the gedit Snippets plugin by reading this page Gedit/Plugins/Snippets http://live.gnome.org/Gedit/Plugins/Snippets. 
 
 Documentation
-===
+------
 If you want an overview of all jQuery and javascript snippets available, take a look into the documentation http://www.danielcamargo.com.br/stuffs/gedit-snippets-jquery/documentation.php. 
 
 Install 
-===
+------
 $ git clone git://github.com/pererinha/gedit-snippet-jquery.git
 $ cp gedit-snippets/snippets/*.xml ~/.gnome2/gedit/snippets 
 
 More information about Gedit Snippets
-===
+------
 http://live.gnome.org/Gedit/Plugins/Snippets
 
